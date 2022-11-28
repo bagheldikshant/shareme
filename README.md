@@ -1,7 +1,7 @@
 # Share Me
 
 
-[Live Website](https://dikshant-shareme.netlify.app/user-profile/112425703058521740783)
+[Live Website](https://dikshant-shareme.netlify.app/)
 
 Full stack Social Media application which lets users share photos like Instagram.
 
